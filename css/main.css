@@ -1,0 +1,15 @@
+ul{
+    padding:0 50px;
+}
+
+ul li{
+    list-style: none;
+}
+
+input[type=radio] {
+    margin-left: 15px;
+}
+
+.quizz-content{
+    padding:50px;
+}

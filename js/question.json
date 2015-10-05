@@ -1,0 +1,29 @@
+{
+    "allQuestions": [
+
+        {
+            "question": "England capital",
+            "answers": ["Sidney", "Paris", "A dog", "London"],
+            "correct": 4
+        },
+
+        {
+            "question": "client side language",
+            "answers": ["PHP", "Python", "Javascript", "SQL"],
+            "correct": 3
+        },
+
+        {
+            "question": "10>2",
+            "answers": ["True", "False"],
+            "correct": 1
+        },
+
+        {
+        "question": "Not an italian meal",
+        "answers": ["Lasagne", "paella", "pizza", "polenta"],
+        "correct": 2
+        }
+
+    ]
+}
